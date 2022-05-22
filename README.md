@@ -1,5 +1,4 @@
 # prog_est_prog31
-El programa pide números y cuenta el numero de entradas positivas, negativas y ceros
 <p><b>Autor:</b> Xavier Romero Hernández, <b>Fecha:</b> 03/03/2022 <br>
   <b>Escuela:</b> Universidad del Valle de Mexico <b>Campus</b> Villahermosa<br>
   <b>Materia:</b> Programación Estructrada<br>
